@@ -1,2 +1,3 @@
-# SIH-DestinyDojo
-## Team IIT Patna
+# SIH HACKATHON
+
+## TEAM IIT PATNA
